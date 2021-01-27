@@ -1,4 +1,4 @@
-0x03-git0x00. Vagrant
+0x01. Emacs
  Foundations - 0-Day ― 0-Day
 
  by Julien Barbier, co-founder & CEO at Holberton School
@@ -7,4 +7,4 @@
 
  Checker will be released at 01-26-2021 09:00 AM
 
- QA review fully automated..
+ QA review fully automated.
